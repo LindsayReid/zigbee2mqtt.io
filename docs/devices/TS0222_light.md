@@ -36,6 +36,10 @@ pageClass: device-page
 
 * `illuminance_raw`: Expose the raw illuminance value. The value must be `true` or `false`
 
+### Pairing
+To start pairing, press the button (pinhole on the bottom of the device) using a
+pin/paperclip for approx. 10 seconds. The led will turn on, then start blinking while the
+pairing process is in progress.
 
 ## Exposes
 
